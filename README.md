@@ -1,1 +1,1 @@
-# my-site_1
+# my-site_1 (compatible for mobile)
